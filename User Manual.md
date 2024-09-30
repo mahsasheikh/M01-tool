@@ -150,7 +150,7 @@ HybGen offers the ability to calculate various molecular descriptors using the *
   
 
 ---
-Here’s a formatted and clearer version of your **LigandBuilder Class** functions:
+**LigandBuilder Class**:
 
 ---
 
@@ -186,7 +186,7 @@ Here’s a formatted and clearer version of your **LigandBuilder Class** functio
   
 ---
 
-Here’s a structured version of the **Get_PDB Class** functions for clarity and ease of use:
+**Get_PDB Class**:
 
 ---
 
@@ -238,7 +238,7 @@ Here’s a structured version of the **Get_PDB Class** functions for clarity and
    - **Details:** Retrieves the PDB file, extracts the specified chain, fixes the PDB structure, and returns the PDB ID and chain.
 
 ---
-Here’s a cleaner and more organized version of the usage and description for **prepare_receptor4.py**:
+**prepare_receptor4.py**:
 
 ---
 
