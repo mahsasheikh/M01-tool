@@ -1,11 +1,11 @@
 
 ---
 
-# **HybGen User Guide**
+# **M01 tool User Guide**
 
 ## **Introduction**
 
-Welcome to **HybGen**, a fully automated tool designed for generating small molecule-peptide hybrids and docking them into curated protein structures. This user manual will guide you through the installation process, hybrid generation, and docking simulation steps, ensuring smooth usage of the software.
+Welcome to **M01 tool**, a fully automated tool designed for generating small molecule-peptide hybrids and docking them into curated protein structures. This user manual will guide you through the installation process, hybrid generation, and docking simulation steps, ensuring smooth usage of the software.
 
 ---
 
@@ -57,7 +57,7 @@ conda install bioconda::mgltools
 
 ## **Hybrid Generation**
 
-In this section, you'll learn how to generate hybrid molecules using HybGen. Follow the steps below to create your hybrids.
+In this section, you'll learn how to generate hybrid molecules using M01 tool. Follow the steps below to create your hybrids.
 
 ### **Steps for Hybrid Generation:**
 
@@ -90,7 +90,7 @@ In addition, we calculate the centroid of the chain in this step, in order to us
 ### **Steps for Getting the 3D Structure:**
 
 1. **Enter the PDB ID and Chain or UniProt ID:**
-   - You can either use the UniProt API to select the appropriate PDB file and chain, or input them directly into HybGen.
+   - You can either use the UniProt API to select the appropriate PDB file and chain, or input them directly into M01 tool.
 
 2. **Run the Retrieval Process:**
    - After providing the required IDs, the system will download the 3D structure in `.pdb` format.
@@ -124,7 +124,7 @@ In this section, we will walk you through the automated docking process, which i
 
 ### **Introduction**
 
-HybGen offers the ability to calculate various molecular descriptors using the **RDKit** module. These descriptors provide insights into the chemical properties of molecules and their potential drug-likeness. Below is a list of the descriptors calculated by HybGen, along with simple explanations of each:
+M01 tool offers the ability to calculate various molecular descriptors using the **RDKit** module. These descriptors provide insights into the chemical properties of molecules and their potential drug-likeness. Below is a list of the descriptors calculated by M01 tool, along with simple explanations of each:
 
 ### **Available Descriptors:**
 
