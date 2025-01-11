@@ -5,7 +5,7 @@
 
 ## **Introduction**
 
-Welcome to **M01 tool**, a fully automated tool designed for generating small molecule-peptide hybrids and docking them into curated protein structures. This user manual will guide you through the installation process, hybrid generation, and docking simulation steps, ensuring smooth usage of the software.
+Welcome to **M01 tool**, an  automated tool designed for generating small molecule-peptide hybrids and docking them into curated protein structures. This user manual will guide you through the installation process, hybrid generation, and docking simulation steps, ensuring smooth usage of the software.
 
 ---
 
