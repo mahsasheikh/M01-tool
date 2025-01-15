@@ -146,8 +146,21 @@ M01 tool offers the ability to calculate various molecular descriptors using the
    - The count of hydrogen atoms that can participate in hydrogen bonding by donating a hydrogen atom.
 
 5. **Hydrogen Bond Acceptors (hba):**
-   - The count of atoms capable of accepting a hydrogen
-  
+   - The count of atoms capable of accepting a hydrogen atom in hydrogen bonding.
+
+6. **Topological Polar Surface Area (TPSA):**
+   - **Purpose:** Measures the sum of the surface areas of polar atoms (usually oxygen and nitrogen, including attached hydrogens) in a molecule.
+   - **Significance:**
+     - A TPSA value ≤ 140 Å² is generally associated with good permeability and oral bioavailability.
+     - Lower TPSA values (< 90 Å²) are preferred for CNS-active compounds.
+
+7. **Quantitative Estimation of Drug-likeness (QED):**
+   - **Purpose:** Provides a quantitative measure of how "drug-like" a compound is, based on a combination of multiple physicochemical properties (e.g., molecular weight, logP, hbd, hba, TPSA, and others).
+   - **Range:**
+     - QED values range from 0 (least drug-like) to 1 (most drug-like).
+   - **Significance:**
+     - Higher QED values indicate a higher likelihood of a compound being a successful drug candidate.
+
 
 ---
 **LigandBuilder Class**:
