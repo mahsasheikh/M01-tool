@@ -8,4 +8,5 @@ Our online tool: https://m01tool.com/
 
 Workflow of hybrid generation and docking using M01 tool:
 
-![fig 1](https://github.com/user-attachments/assets/172e518f-2c88-464d-99c7-4bef7b2e836a)
+
+![git](https://github.com/user-attachments/assets/038ac50f-8ba6-4118-a458-3f3ace2559ce)
