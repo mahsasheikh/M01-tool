@@ -10,3 +10,13 @@ Workflow of hybrid generation and docking using M01 tool:
 
 
 ![git](https://github.com/user-attachments/assets/038ac50f-8ba6-4118-a458-3f3ace2559ce)
+
+```
+## Citation
+If you use this tool in your research, please cite our paper:
+```
+Sheikholeslami, M., Nazari, MH., , Fasihi, A. 
+M01 tool: an automated, comprehensive computational tool for generating small molecule-peptide hybrids and docking them into curated protein structures.
+BMC bioinformatics, Volume 26, Issue 1, Pages 102
+https://doi.org/10.1186/s12859-025-06120-5
+```
